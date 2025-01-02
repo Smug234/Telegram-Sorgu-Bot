@@ -1,4 +1,4 @@
-# Telegram-IP-Lookup-Bot
+# Telegram-Sorgu-Bot
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/itsAPK/)</br>
