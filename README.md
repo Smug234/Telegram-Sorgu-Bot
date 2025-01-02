@@ -5,8 +5,8 @@
 
 
 
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/itsAPK/Telegram-IP-Lookup-Bot)
-![Repo Size](https://img.shields.io/github/repo-size/itsAPK/Telegram-IP-Lookup-Bot?style=flat-square)
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/Smug234/Telegram-Sorgu-Bot)
+
 
 Simple Python Telegram bot which Gives Details of Given IP Address and search subdomains of given domain.
 
@@ -21,8 +21,12 @@ Simple Python Telegram bot which Gives Details of Given IP Address and search su
 
 <img src="https://github.com/itsAPK/Telegram-IP-Lookup-Bot/blob/master/Screenshot%20(803).png">
 
-# Credits,
+# Bağış,
+If you would like to tip me in case you won anything or you appreciate the program, here is my BTC wallet and ETH. It will be greatly appreciated. Also you can give this project a star :)
 
-[pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI) : A telegram bot API python library.<br/>
-[ip-api](http://ip-api.com) : IP address lookup API.<br/>
-[dnscan](https://github.com/rbsec/dnscan.git) : python wordlist-based DNS subdomain.
+My Bitcoin: 14erhPhc9GWKjwxi1gULqjNxc7hMHUJhmb
+
+My Ethereum: 0x10216699882a3395893bbeb03745f444799be108
+
+My LTC: LiMPN75CmUKHNSGof6UEttikARmdEotvwW
+
