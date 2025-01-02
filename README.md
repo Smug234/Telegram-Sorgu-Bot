@@ -1,4 +1,4 @@
-# Telegram-Sorgu-Bot
+# Telegram-Check-Bot
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/Smug234/)</br>
@@ -12,13 +12,10 @@ Simple Python Telegram bot which Gives Details of Given IP Address and search su
 
 
 # ScreenShot:
-<b>IP Lookup :</b>
+<b>Check Bot :</b>
+![image](https://github.com/user-attachments/assets/0d01a21c-677b-408e-af53-36561fcf8b36)
 
-<img src="https://github.com/itsAPK/Telegram-IP-Lookup-Bot/blob/master/Screenshot%20(791).png">
 
-<b>Search Subdomains :</b>
-
-<img src="https://github.com/itsAPK/Telegram-IP-Lookup-Bot/blob/master/Screenshot%20(803).png">
 
 # Bağış,
 If you would like to tip me in case you won anything or you appreciate the program, here is my BTC wallet and ETH. It will be greatly appreciated. Also you can give this project a star :)
