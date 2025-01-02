@@ -1,0 +1,20 @@
+{
+  "name": "Telegram IP Lookup Bot",
+  "description": "IP lookup",
+  "repository": "https://github.com/itsAPK/Telegram-IP-Lookup-Bot.git",
+  "image": "heroku/python",
+  "env": {
+       "APP_NAME": {
+         "description": "Heroku App Name"
+      },
+      "BOT_TOKEN": {
+      "description": "Get this value from @BotFather"
+      }
+  },
+  "buildpacks": [{
+        "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+        }, 
+        {
+        "url": "heroku/python"
+        }]
+}
